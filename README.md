@@ -1,6 +1,8 @@
+## Introduction
+
 - 👋 Hi, I’m @emmalobley
 - 👀 I’m interested in learning new things and building my tech skills
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and working on building my portfolio
 - 💞️ I’m looking to collaborate on anything new and fun!
 - 📫 How to reach me: add me on LinkedIn: https://www.linkedin.com/in/emma-lobley-8012a01b7/
 - 😄 Pronouns: she/her
