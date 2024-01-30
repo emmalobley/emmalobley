@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java and working on building my portfolio
 - 💞️ I’m looking to collaborate on anything new and fun!
 - 📫 How to reach me: add me on LinkedIn: https://www.linkedin.com/in/emma-lobley-8012a01b7/
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: I love to read and usually have a few books on the go at any given time.
 
 <!---
