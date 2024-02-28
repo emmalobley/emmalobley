@@ -1,6 +1,6 @@
 ## Introduction
 
-- 👋 Hi, I’m @emmalobley
+- 👋 Hi, I’m @emmalobley, check out my web portfolio: https://emmalobley.github.io/
 - 👀 I’m interested in learning new things and building my tech skills
 - 🌱 I’m currently learning Java and working on building my portfolio
 - 💞️ I’m looking to collaborate on anything new and fun!
